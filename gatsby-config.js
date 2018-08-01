@@ -1,3 +1,3 @@
 module.exports = {
-  pathPrefix: `/project-name`,
+  pathPrefix: `/hundred-days-diary`,
 }
