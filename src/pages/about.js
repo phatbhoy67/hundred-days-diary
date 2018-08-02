@@ -6,9 +6,9 @@ export default ({ data }) => (
   <Layout>
     <h1>About {data.site.siteMetadata.title}</h1>
     <p>
-      We're the only site running on your computer dedicated to showing the best
-      photos and videos of pandas eating lots of food.
+      Creating a site, hosted on GitHub pages, to record my progress in the 100 Days of Code challenge.
     </p>
+    <img src="https://source.unsplash.com/1600x900/?code" alt="diary" />
   </Layout>
 )
 

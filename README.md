@@ -1,3 +1,7 @@
+#Gatsby Site
+
+[View Live](https://phatbhoy67.github.io/hundred-days-diary/)
+
 # gatsby-starter-hello-world
 Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site
 

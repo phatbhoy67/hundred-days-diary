@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `100 Days Diary`,
+    title: `100 Days of Code Diary`,
   },
   pathPrefix: `/hundred-days-diary`,
   plugins: [
