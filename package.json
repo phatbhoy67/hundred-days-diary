@@ -1,7 +1,11 @@
 {
   "name": "hundred-days-diary",
-  "description": "Gatsby hello world starter",
+  "description": "Gatsby site to record progress on 100 Days of code.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phatbhoy67/hundred-days-diary"
+  },
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
@@ -9,21 +13,21 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
-    "emotion": "^9.2.6",
-    "emotion-server": "^9.2.6",
-    "gatsby": "^2.0.0-beta.65",
-    "gatsby-plugin-emotion": "^2.0.0-beta.3",
-    "gatsby-plugin-typography": "^1.7.19",
-    "gatsby-source-filesystem": "^1.5.39",
-    "gatsby-transformer-remark": "^1.7.44",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-emotion": "^9.2.6",
+    "emotion": "^9.2.10",
+    "emotion-server": "^9.2.10",
+    "gatsby": "^2.0.7",
+    "gatsby-plugin-emotion": "^2.0.5",
+    "gatsby-plugin-typography": "^2.2.0",
+    "gatsby-source-filesystem": "^2.0.1",
+    "gatsby-transformer-remark": "^2.1.3",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-emotion": "^9.2.10",
     "react-typography": "^0.16.13",
     "typography": "^0.16.17",
     "typography-theme-kirkham": "^0.16.3"
   },
   "devDependencies": {
-    "gh-pages": "^1.2.0"
+    "gh-pages": "^2.0.0"
   }
 }
