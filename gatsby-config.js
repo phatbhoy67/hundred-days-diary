@@ -9,7 +9,7 @@ module.exports = {
       options: {
         name: "100 Days of Code Diary",
         short_name: "100DOC",
-        start_url: "/",
+        start_url: "/hundred-days-diary",
         background_color: "#6b37bf",
         theme_color: "#6b37bf",
         display: "minimal-ui",
