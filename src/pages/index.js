@@ -1,8 +1,9 @@
-import React from "react"
-import { css } from "react-emotion"
-import { Link, graphql } from "gatsby"
-import { rhythm } from "../utils/typography"
-import Layout from "../components/layout"
+import React from "react";
+import { css } from "react-emotion";
+import { Link, graphql } from "gatsby";
+import { rhythm } from "../utils/typography";
+import Layout from "../components/layout";
+require("prismjs/plugins/line-numbers/prism-line-numbers.css");
 
 export default ({ data }) => {
   return (
@@ -46,8 +47,8 @@ export default ({ data }) => {
         ))}
       </div>
     </Layout>
-  )
-}
+  );
+};
 
 export const query = graphql`
   query {
@@ -68,4 +69,4 @@ export const query = graphql`
       }
     }
   }
-`
+`;

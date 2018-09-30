@@ -1,8 +1,8 @@
-import React from "react"
-import { css } from "react-emotion"
-import { StaticQuery, Link, graphql } from "gatsby"
+import React from "react";
+import { css } from "react-emotion";
+import { StaticQuery, Link, graphql } from "gatsby";
 
-import { rhythm } from "../utils/typography"
+import { rhythm } from "../utils/typography";
 
 export default ({ children }) => (
   <StaticQuery
@@ -47,4 +47,4 @@ export default ({ children }) => (
       </div>
     )}
   />
-)
+);
