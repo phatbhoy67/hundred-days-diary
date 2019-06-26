@@ -10,6 +10,7 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
+    "test": "echo \"no test specified\" && exit 0",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
