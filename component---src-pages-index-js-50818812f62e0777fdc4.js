@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{204:function(n,e,o){"use strict";o.r(e);var t=o(1),r=o.n(t);e.default=function(){return r.a.createElement("div",null,"Another Hello world!")}}}]);
-//# sourceMappingURL=component---src-pages-index-js-50818812f62e0777fdc4.js.map
