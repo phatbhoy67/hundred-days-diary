@@ -4,8 +4,6 @@ node_js:
 cache:
   directories:
     - node_modules
-script:
-  - npm run deploy
 deploy:
   provider: pages
   skip_cleanup: true
@@ -14,3 +12,10 @@ deploy:
   local_dir: public
   on:
     branch: master
+before_script:
+  - "npm i -g gatsby"
+  - "npm i"
+script:
+  - "npm run test"
+after_success:
+  - "npm run deploy"
