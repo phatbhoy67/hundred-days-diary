@@ -1,14 +1,17 @@
-#Gatsby Site
+# Gatsby Site
 
 [View Live](https://phatbhoy67.github.io/hundred-days-diary/)
 
-# gatsby-starter-hello-world
+## gatsby-starter-hello-world
+
 Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
+
+```bash
 gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 ```
 
 ## Running in development
+
 `gatsby develop`
