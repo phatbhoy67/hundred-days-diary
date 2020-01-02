@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-blog-post-js","path":"/update/","webpackCompilationHash":"4cce174a77d2dc114e7d","result":{"data":{"markdownRemark":{"html":"<p>Updated Gatsby and dependencies.</p>","frontmatter":{"title":"Update"}}},"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"/update/"}}}
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/update/","result":{"data":{"markdownRemark":{"html":"<p>Updated Gatsby and dependencies.</p>","frontmatter":{"title":"Update"}}},"pageContext":{"slug":"/update/"}}}
